@@ -1,0 +1,28 @@
+body {
+    background-color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+}
+h1 {
+    text-align: center;
+    color: grey;
+}
+h2 {
+    color: grey;
+}
+.about {
+    text-align: center;
+    color: grey;
+}
+.skills {
+    text-align: center;
+    color: grey;
+}
+.projects {
+    text-align: center;
+    color: grey;
+}
+.contact {
+    text-align: center;
+    color: grey;
+}
