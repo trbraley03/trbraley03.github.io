@@ -69,7 +69,7 @@ a { /* change the appearance of ALL links */
     margin: auto;
     line-height: 125%;
 }
-    .about img {
+.about img {
     width: 150px;
     height: 200px;
     border-radius: 25%;
