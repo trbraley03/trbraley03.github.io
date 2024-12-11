@@ -178,3 +178,22 @@ footer .social a:hover {
     color: rgb(63, 63, 142);
     text-decoration: underline;
 }
+
+.attribution {
+    font-size: 0.9rem;
+    text-align: center;
+    margin-top: 5px;
+    color: rgb(24, 22, 39);
+    font-style: italic;
+}
+
+.attribution a {
+    color: rgb(0, 0, 107);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.attribution a:hover {
+    color: rgb(63, 63, 142);
+    text-decoration: underline;
+}
